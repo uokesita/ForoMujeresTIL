@@ -141,7 +141,7 @@ body {
 .page-body {
   float: left;
   font-size: 14px;
-  padding: 0 35px 0 35px;
+  padding: 40px 35px 0 35px;
   width: 640px;
 }
 
@@ -156,10 +156,6 @@ body {
   margin-bottom: 15px;
 }
 
-.post {
-  margin: 30px 0;
-}
-
 .posted-on,
 .posted-in,
 .links,
@@ -170,10 +166,6 @@ body {
   margin: 10px 0;
 }
 
-.full-post {
-  padding-top: 50px;
-}
-
 /* Sidebar */
 
 .sidebar {
@@ -181,10 +173,6 @@ body {
   float: left;
   font-size: 14px;
   margin-top: 30px;
-}
-
-.full-post .sidebar {
-  margin-top: 0;
 }
 
 #search-2 {
@@ -207,12 +195,6 @@ body {
 height: 140px;
     width: 627px;
 
-}
-
-/* Bio */
-
-.bio{
-  margin-top: 40px;
 }
 
 /* Footer */
