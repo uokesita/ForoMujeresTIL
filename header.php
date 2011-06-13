@@ -27,9 +27,9 @@
     <div class="navigation">
       <?php wp_nav_menu( array( 'container_class' => 'menu-header', 'theme_location' => 'primary' ) ); ?>
       <div class="social">
-        <a href="https://twitter.com/#!/ForoMujeresTIL" alt="Siguenos en Twitter" title="Siguenos en Twitter"><img src="<?php bloginfo( 'template_directory' ); ?>/images/twitter.png" /></a>
-        <a href="http://www.facebook.com/pages/Foro-de-Mujeres-y-Tecnolog%C3%ADas-de-Informaci%C3%B3n-Libres/" alt="Siguenos en Facebook" title="Siguenos en Facebook"><img src="<?php bloginfo( 'template_directory' ); ?>/images/facebook.png" /></a>
-        <a href="http://identi.ca/foromujerestil" alt="Siguenos en Identi.ca" title="Siguenos en Identi.ca"><img src="<?php bloginfo( 'template_directory' ); ?>/images/identica.png" /></a>
+        <a href="https://twitter.com/#!/ForoMujeresTIL" alt="Siguenos en Twitter" title="Siguenos en Twitter" target="_blank"><img src="<?php bloginfo( 'template_directory' ); ?>/images/twitter.png" /></a>
+        <a href="http://www.facebook.com/pages/Foro-de-Mujeres-y-Tecnolog%C3%ADas-de-Informaci%C3%B3n-Libres/" alt="Siguenos en Facebook" title="Siguenos en Facebook" target="_blank"><img src="<?php bloginfo( 'template_directory' ); ?>/images/facebook.png" /></a>
+        <a href="http://identi.ca/foromujerestil" alt="Siguenos en Identi.ca" title="Siguenos en Identi.ca" target="_blank"><img src="<?php bloginfo( 'template_directory' ); ?>/images/identica.png" /></a>
       </div>
     </div><!-- #access -->
     <div class="clear"></div>
